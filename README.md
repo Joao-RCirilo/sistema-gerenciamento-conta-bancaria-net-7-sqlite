@@ -19,7 +19,13 @@ Aqui se encontra o banco de dados para apoiar na resolução da atividade.
 
 <p align="center">
   <a href="#">
-    <img src="logo\code.png" width="800" alt="Saída do Programa">
+    <img src="logo\code_01.png" width="800" alt="Saída do Programa">
+  </a>
+</p>
+
+<p align="center">
+  <a href="#">
+    <img src="logo\code_02.png" width="800" alt="Saída do Programa">
   </a>
 </p>
 
