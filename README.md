@@ -17,7 +17,7 @@ Aqui se encontra o banco de dados para apoiar na resolução da atividade.
 
 ## Saída possível do Programa
 
-[ScreenShots](https://github.com/danhpaiva/sistema-gerenciamento-conta-bancaria-net-7-sqlite/tree/main/screenshot)
+[Clique aqui para ver ScreenShots](https://github.com/danhpaiva/sistema-gerenciamento-conta-bancaria-net-7-sqlite/tree/main/screenshot)
 
 ### Orientações Finais
 
